@@ -1,0 +1,5 @@
+Contacts
+Web app that can add, read, insert, update/edit contacts.
+Simple app, using the CRUD.
+Connects to MySQL DB
+Only 3 fields - name, email, phone
